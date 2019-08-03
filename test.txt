@@ -1,2 +1,5 @@
 in branch 1
 test 1
+
+in branch 2
+test 2
